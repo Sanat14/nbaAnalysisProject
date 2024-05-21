@@ -16,3 +16,5 @@ answer four key research questions:
 4) Which performance stats contribute to determining a team’s success the most?
 
 
+## Data
+All data can be found in the [data](https://csgitlab.ucd.ie/mukhan/datascienceproject/-/tree/main/data?ref_type=heads) directory where we have raw data (run notebooks in the "collecting data" folder to retrieve raw data, although only cleaned data is required to run the main analysis notebooks) and cleaned data.
