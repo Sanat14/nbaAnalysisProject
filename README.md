@@ -1,8 +1,8 @@
 # nbaAnalysisProject
 
 ## Authors
-Muhammad Khan : @mukhan \
-Sanat Dusad  : @sanat14
+Muhammad Khan : [@mukhan](https://github.com/MuKhan03) \
+Sanat Dusad  : [@sanat14](https://github.com/Sanat14)
 
 ## Overview
 
