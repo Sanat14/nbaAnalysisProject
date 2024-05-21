@@ -17,4 +17,7 @@ answer four key research questions:
 
 
 ## Data
-All data can be found in the [data](https://csgitlab.ucd.ie/mukhan/datascienceproject/-/tree/main/data?ref_type=heads) directory where we have raw data (run notebooks in the "collecting data" folder to retrieve raw data, although only cleaned data is required to run the main analysis notebooks) and cleaned data.
+All data can be found in the "data" directory where we have raw data (run notebooks in the "collecting data" folder to retrieve raw data, although only cleaned data is required to run the main analysis notebooks) and cleaned data.
+
+## Analysis/Visualisations
+Analysis on our research questions can be found in the "analysis_visualisations" directory.
